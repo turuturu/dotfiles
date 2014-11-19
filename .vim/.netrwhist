@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/ttsurumi/git/gitolite-admin/conf'
+let g:netrw_dirhist_2='/Users/ttsurumi/git'
+let g:netrw_dirhist_3='/Users/ttsurumi/git/izumo/tools/provisioning/roles/mysql-userdb-master'
+let g:netrw_dirhist_4='/Users/ttsurumi/git/izumo/tools/provisioning/roles/mysql-userdb-master/templates'
+let g:netrw_dirhist_5='/Users/ttsurumi/git/izumo/tools/provisioning/roles/mysql-userdb-master'
+let g:netrw_dirhist_6='/Users/ttsurumi/git/izumo/tools/provisioning/roles/mysql-userdb-master/templates'
+let g:netrw_dirhist_7='/Users/ttsurumi/git/izumo/tools/provisioning/roles/mysql-userdb-master/tasks'
