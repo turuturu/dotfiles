@@ -33,6 +33,8 @@ NeoBundle 'Shougo/neosnippet'
 NeoBundle 'jpalardy/vim-slime'
 NeoBundle 'scrooloose/syntastic'
 NeoBundle 'nerdtree'
+NeoBundle 'rking/ag.vim'
+NeoBundle 'Shougo/neosnippet-snippets'
 ""NeoBundle 'https://bitbucket.org/kovisoft/slimv'
 
 filetype plugin indent on     " required!
