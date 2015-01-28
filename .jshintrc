@@ -1,0 +1,11 @@
+{
+    "indent"    : 2,
+    "unused"    : true,
+    "eqeqeq"    : true,
+    "undef"     : true,
+    "browser"   : true,
+    "jquery"    : true,
+    "devel"     : true,
+    "predef": ["angular"]
+}
+

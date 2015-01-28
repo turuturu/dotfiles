@@ -2,11 +2,13 @@ VimClojure
 ag.vim
 neobundle.vim
 neocomplcache
+neocomplete
 neosnippet
 neosnippet-snippets
 nerdtree
 syntastic
 unite.vim
+vim-autoclose
 vim-slime
 vimproc
 vimshell
